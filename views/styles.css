@@ -1,3 +1,36 @@
+p {
+    text-align: center;
+}
+
+.title{
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h1, h2, h3, h4{
+    text-align: center;
+}
+
+.picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+
+}
+
+.gif-box{
+    display: flex;
+    justify-content: center;
+}
+
+ul, ol{
+    display: table;
+    margin: 0 auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 #carnitas .carnitas{
     max-width: 200px;
 }
